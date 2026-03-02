@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maheshkholiya
-- 👀 I’m interested in HTML
-- 🌱 I’m currently learning PYTHON,C
+- 👀 Network Engineer & Infrastructure
+- 🌱 Build secure, scalable, and automated networks.
 - 💞️ I’m looking to collaborate on New Project
 - 📫 How to reach me text me on maheshkholiya121@gmail.com
 
